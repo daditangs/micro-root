@@ -1,2 +1,3 @@
-# micro
-microfrontend
+# micro-root
+
+Root html file for microfrontend
